@@ -1,0 +1,4 @@
+interface:
+  display_name: "LinkedIn Profile Outreach"
+  short_description: "Read profiles and draft personal first messages"
+  default_prompt: "Use $linkedin-profile-outreach to review this LinkedIn profile and draft an initial recruiting message using the opportunity details I provide."
